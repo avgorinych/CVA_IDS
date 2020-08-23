@@ -2,6 +2,10 @@
 
 [Видео работы программы агента]: https://www.youtube.com/watch?v=b_K9enK7tN0	"Видео работы агентов"
 
+Видео работы агентов:
+
+https://www.youtube.com/watch?v=b_K9enK7tN0
+
 Используемый язык Python 3
 
 Используемые библиотеки:
