@@ -29,3 +29,7 @@ python collectdagent1
 
 Wireshark
 
+nc.exe
+
+nc64.exe - эмулятор сервера
+
